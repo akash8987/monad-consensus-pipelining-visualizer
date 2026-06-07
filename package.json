@@ -1,0 +1,10 @@
+{
+  "name": "monad-consensus-pipelining-visualizer",
+  "version": "1.0.0",
+  "description": "Simulation framework for MonadBFT consensus pipelining and step interleaving",
+  "main": "simulatePipelineTimeline.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
